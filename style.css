@@ -1,0 +1,59 @@
+*{
+margin:0%;
+}
+
+.home{
+    background-color:#FFCD9E;  
+    height: 210px;
+    display: flex;
+    justify-content: space-around;
+    padding: 30px;
+}
+h3{
+    margin-bottom: 20px;
+}
+.img{
+    height: 210px;
+    width: 210px;
+    border-radius: 105px;
+    float: right;
+   
+}
+
+h5{
+    margin-top:20px;
+    margin-bottom: 20px;
+}
+
+
+.form-input{
+border-radius: 5px;
+border: 2px solid black;
+}
+
+.Register{
+    width: 70px;
+  background-color: black;  
+  color: white;
+text-align: center;
+border-radius: 5px;
+}
+.p{
+    margin-top: 10px;
+    margin-bottom:10px;
+    color: white;
+    font-size: smaller;
+}
+
+
+.footer{
+    display: flex;
+    justify-content: space-around;
+    background-color: black;
+    color: white;
+}
+
+.left, .right {
+    padding: 25px;
+    font-size: smaller;
+}
